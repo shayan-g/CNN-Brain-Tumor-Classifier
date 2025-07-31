@@ -6,8 +6,8 @@ This project is a convolutional neural network (CNN) built with Keras for binary
 The repository includes a `.zip` file containing the MRI images, organized as follows:
 
 brain_tumor_dataset/
-├── yes/ # images with tumors
-└── no/ # images without tumors
+- **yes/**: images with tumors  
+- **no/**: images without tumors  
 
 Unzip the archive and point your `image_dir` to the `brain_tumor_dataset` folder before running the code.
 
