@@ -1,4 +1,4 @@
-# CNN-Brain-Tumor-Classifier
+# CNN Brain Tumor Classifier
 This project is a convolutional neural network (CNN) built with Keras for binary classification of brain MRI images—tumor vs no tumor. The model architecture and training process are inspired by a publicly available Kaggle notebook, adapted and simplified for educational and experimental purposes.
 
 # Data
